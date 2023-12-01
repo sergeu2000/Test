@@ -1,9 +1,3 @@
-import pygame as pg
-
-from Player import player
-from World import TileMap
-from Helper import res
-from Settings import *
 
 
 class Game:
